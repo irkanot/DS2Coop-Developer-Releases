@@ -2,11 +2,11 @@
 
 Official public download channel for isolated DS2Coop Developer launcher builds.
 
-## Current release
+## Current Developer prerelease
 
-- Version: `1.4.1-dev.2`
-- Package: `DS2CoopLauncher-Developer-1.4.1-dev.2-win-x64.zip`
-- SHA-256: `F22E04D3AFF5A3CC909571B110C58325E5640E35D6E58F2E86A291FFD9C885B3`
+[Download the portable Windows x64 launcher 1.4.2-dev.21](https://github.com/irkanot/DS2Coop-Developer-Releases/releases/download/launcher-dev-1.4.2-dev.21/DS2CoopLauncher-Developer-1.4.2-dev.21-win-x64.zip).
+
+ZIP SHA-256 is `D592AED54C581DCB86DA76F84EA15ECAA8C64CF4A0FF7D0B7696666403A9034D`. The signed Developer channel selects the read-only diagnostic `2.5.2-streaming-lifecycle.1` for Steam build 23923251. Its protocol and operator instructions are included in the candidate package. Upload requires a private operator profile.
 
 Extract each release into a new directory. Preserve `%LOCALAPPDATA%\DS2Coop\Developer` when replacing an older Developer launcher so the existing workflow session can be recovered.
 
